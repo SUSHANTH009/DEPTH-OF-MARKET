@@ -6,16 +6,23 @@ It connects to the Bybit WebSocket API to display live order book data with high
 🚀 Features
 
 📡 Real-time bid/ask updates from Bybit WebSocket
+
 ⚡ Fast and efficient Go backend for data streaming
+
 🧭 Simple and clean DOM visualization in browser
+
 🔁 Automatic updates without page refresh
+
 🧰 Easy to modify and extend for custom strategies
 
 🛠️ Tech Stack
 
 Backend: Golang
+
 Frontend: HTML, CSS, JavaScript
+
 API: Bybit WebSocket
+
 Others: WebSocket client, Go HTTP server
 
-![Demo](./assets/demo.gif)
+[![Demo](./assets/demo.gif)](https://github.com/user-attachments/assets/12b54cdd-9d54-4df9-87a0-2820aa5af22c)
