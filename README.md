@@ -3,8 +3,13 @@
 A lightweight and real-time Depth of Market (DOM) application built using Golang (for backend) and HTML/CSS/JS (for frontend).
 It connects to the Bybit WebSocket API to display live order book data with high performance.
 
+<br>
 
 🚀 Features
+
+🟢 **Green Blink** — When price increases, the background of the price cell flashes green.
+  
+🔴 **Red Blink** — When price decreases, the background flashes red.  
 
 📡 Real-time bid/ask updates from Bybit WebSocket
 
@@ -16,7 +21,7 @@ It connects to the Bybit WebSocket API to display live order book data with high
 
 🧰 Easy to modify and extend for custom strategies
 
-
+<br>
 
 🛠️ Tech Stack
 
