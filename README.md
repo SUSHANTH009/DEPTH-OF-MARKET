@@ -3,6 +3,7 @@
 A lightweight and real-time Depth of Market (DOM) application built using Golang (for backend) and HTML/CSS/JS (for frontend).
 It connects to the Bybit WebSocket API to display live order book data with high performance.
 
+
 🚀 Features
 
 📡 Real-time bid/ask updates from Bybit WebSocket
@@ -14,6 +15,8 @@ It connects to the Bybit WebSocket API to display live order book data with high
 🔁 Automatic updates without page refresh
 
 🧰 Easy to modify and extend for custom strategies
+
+
 
 🛠️ Tech Stack
 
